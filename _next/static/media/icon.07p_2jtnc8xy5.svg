@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106">
+  <!-- 진우코리아 파비콘 — 네이비 타일 + 심볼(라이트 변형) -->
+  <rect width="100" height="106" rx="20" fill="#0F2A43"/>
+  <g transform="translate(11, 11.66) scale(0.78)">
+    <polygon points="4,72 20,56 38,56 38,40 55,26 73,26 73,12 89,2 89,40 52,40 52,72" fill="#4C82E8"/>
+    <path d="M 41,77 L 55,75 L 55,90 L 82,90 L 82,46 L 96,46 L 96,96 Q 96,103 89,103 L 48,103 Q 41,103 41,96 Z" fill="#FFFFFF"/>
+  </g>
+</svg>
